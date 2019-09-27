@@ -1,6 +1,6 @@
 {
   "Geraete": [
-    { "Test": {
+    { "123": {
               "name": "LifeFitness",
               "uebung": "Beinstrecker",
               "muskelgruppe": "Beine",
@@ -15,7 +15,7 @@
               }
     },
     
-    { "12345": { 
+    { "1234": { 
               "name": "Hammer",
               "uebung": "Schulter pressen",
               "muskelgruppe": "Schulter",
