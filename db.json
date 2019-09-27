@@ -1,0 +1,16 @@
+{
+  "Geraet":
+    {         "id": 123,
+              "name": "LifeFitness",
+              "uebung": "Beinstrecker",
+              "muskelgruppe": "Beine",
+              "ausuebung":"Stabile Haltung im Sitz einnehmen. Die Knie bis ganz ans Sitzpolster drücken und die Rolle unter dem Schienbein platzieren. Das Gewicht kontrolliert nach oben bewegen.",
+              "standort" : "2.OG",
+              "trainingsplan1": "Push-Pull-Beine Split",
+              "trainingsplan2": "Fußballer-Workout",
+              "trainingsplan3": "Maximum Burn",
+              "picture":{
+                            "large":"https://randomuser.me/api/portraits/men/97.jpg"
+                                                                                    }
+              }
+}
