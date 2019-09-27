@@ -8,7 +8,8 @@
      "standort" : "2.OG",
      "trainingsplan1": "Push-Pull-Beine Split",
      "trainingsplan2": "Fußballer-Workout",
-     "trainingsplan3": "Maximum Burn"
+     "trainingsplan3": "Maximum Burn",
+     "picture":{"large":"https://randomuser.me/api/portraits/men/97.jpg"}
     },
     
     { "id": 12345, 
@@ -19,9 +20,10 @@
      "standort" : "1.OG",
      "trainingsplan1": "Push-Pull-Beine Split",
      "trainingsplan2": "Fußballer-Workout",
-     "trainingsplan3": "Maximum Burn"},
-    
-    { "id": 123456, 
+     "trainingsplan3": "Maximum Burn",
+     "picture":{"large":"https://randomuser.me/api/portraits/men/97.jpg"}
+    },
+     { "id": 123456, 
      "name": "Schlemon GmbH",
      "uebung": "Bankdrücken",
      "muskelgruppe": "Brust",
@@ -29,8 +31,11 @@
      "standort" : "3.OG",
      "trainingsplan1": "Push-Pull-Beine Split",
      "trainingsplan2": "Fußballer-Workout",
-     "trainingsplan3": "Maximum Burn"}
+     "trainingsplan3": "Maximum Burn",
+     "picture":{"large":"https://randomuser.me/api/portraits/men/97.jpg"}
+    }
   ],
+  
   "Muskelgruppe": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
