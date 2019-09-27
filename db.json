@@ -1,6 +1,6 @@
 {
   "Geraete": [
-    { "1234": {
+    { "Test": {
               "name": "LifeFitness",
               "uebung": "Beinstrecker",
               "muskelgruppe": "Beine",
